@@ -23,7 +23,7 @@ My name is Mohammed Alhawamdeh
 
 - I am a civil engineer
 - I am 26 years old
-- I love `coding` and I will try to be the best `coder` :p:
+- I love `coding` and I will try to be the best `coder` 
 
 Hope you like it :)
 
