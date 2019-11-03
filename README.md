@@ -8,7 +8,7 @@ Now basically growth mindset means that you should be dedicated to do what you'r
 
 ## An Example
 
-&To illustarte my point, I am going to give you an example of how I remind myself to have a **growth mindset**
+To illustarte my point, I am going to give you an example of how I remind myself to have a **growth mindset**
 
 1. When I learn something new no matter how difficult it may sound for other people, I laways tell myself I will do it
 2. If someone _critique_ my work, I will consider this as a valubale feedback on the mistakes I've done.
