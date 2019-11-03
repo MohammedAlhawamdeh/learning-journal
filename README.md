@@ -1,6 +1,6 @@
 # Growth Mindset
 
-![Growth Mindset](https://www.google.com/search?q=image+for+growth+mindset&sxsrf=ACYBGNQpuGBcaAciHccFdJQGdrW1vPUBxQ:1572776843596&tbm=isch&source=iu&ictx=1&fir=hoCNa5677Ux5HM%253A%252CFquxcJtrHlUj5M%252C_&vet=1&usg=AI4_-kTCVYF058qgDGxGUkkOf7BL3v2izQ&sa=X&ved=2ahUKEwjr8cqo6s3lAhX9ThUIHZRQBmMQ9QEwAHoECAcQIg#imgrc=hoCNa5677Ux5HM:)
+![Growth Mindset](https://zurb-dot-com-prod.s3.amazonaws.com/asset/1982/growth-mindset-01.png)
 
 I am going to talk about Growth Mindset and how important it can be for people who have this mindset.
 
