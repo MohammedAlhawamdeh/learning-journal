@@ -1,6 +1,6 @@
 # Growth Mindset
 
-![Growth Mindset](https://zurb-dot-com-prod.s3.amazonaws.com/asset/1982/growth-mindset-01.png | width=100)
+![Growth Mindset](https://zurb-dot-com-prod.s3.amazonaws.com/asset/1982/growth-mindset-01.png)
 
 I am going to talk about Growth Mindset and how important it can be for people who have this mindset.
 
