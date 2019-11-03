@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Growth Mindset
 
-You can use the [editor on GitHub](https://github.com/MohammedAlhawamdeh/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am going to talk about Growth Mindset and how important it can be for people who have this mindset.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Now basically growth mindset means that you should be dedicated to do what you're actually doing, so the harder you work the more results you will see. It has a significant impact on your life.
 
-### Markdown
+## An Example
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To illustarte my point, I am going to give you an example of how I remind myself to have a **growth mindset**
 
-```markdown
-Syntax highlighted code block
+1.When I learn something new no matter how difficult it may sound for other people, I laways tell myself I will do it
+2.If someone _critique_ my work, I will consider this as a valubale feedback on the mistakes I've done.
+3.I never ever say something like "I am gonna give up" or "there is no way I am gonna go on", I always say "**I Can Do It**"
 
-# Header 1
-## Header 2
-### Header 3
+### Introducing Myself
 
-- Bulleted
-- List
+Finally, I am going to introduce myself.
+My name is Mohammed Alhawamdeh
 
-1. Numbered
-2. List
+-I am a civil engineer
+-I am 26 years old
+-I love `coding` and I will try to be the best `coder` :P
 
-**Bold** and _Italic_ and `Code` text
+Hope you like it :)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MohammedAlhawamdeh/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
