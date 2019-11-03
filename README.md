@@ -14,7 +14,7 @@ Now basically growth mindset means that you should be dedicated to do what you'r
 2. If someone _critique_ my work, I will consider this as a valubale feedback on the mistakes I've done.
 3. I never ever say something like "I am gonna give up" or "there is no way I am gonna go on", I always say "**I Can Do It**"
 
-**if you want to learn more , [Click here](https://www.mindsetworks.com/science/)
+**if you want to learn more** , [Click here](https://www.mindsetworks.com/science/)
 
 ### Introducing Myself
 
